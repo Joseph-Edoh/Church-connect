@@ -1,0 +1,5 @@
+{
+  "name": "ChurchConnect CMS",
+  "description": "A multi-tenant Church Management System prototype with role-based access control for managing units, reports, first-timers, and announcements. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
